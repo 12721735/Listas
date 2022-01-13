@@ -82,28 +82,6 @@ ul.lista5 li {
     float: left;
     margin-right: 2em;
 }
-.icon-inicio::before {
-    content: "\ea0a";
-}
-.icon-anadir::before {
-    content: "\ea0a";
-}
-.icon-listar::before {
-    content: "\e922";
-}
-.icon-borrar::before {
-    content: "\ea0b";
-}
-.icon-buscar::before {
-    content: "\e986";
-}
-.icon-modificar::before {
-    content: "\e905";
-}
-.icon-salir::before {
-    content: "\e9b6";
-}
-
 ul.lista6 {
     text-align: center;
 }
